@@ -1,0 +1,11 @@
+Create docker image of PetClinic application
+
+Create ECR repo and store docker image in repo
+
+Import existing EKS cluster via Terraform
+
+Create K8s deployment, service for PetClinic using Terraform
+
+Deploy on EKS cluster using TF
+
+ 
